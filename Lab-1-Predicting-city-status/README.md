@@ -29,7 +29,8 @@ The square with coordinates of two opposite corners (60.0393322852, 30.5360) and
 > You can form teams of up to three people (inclusive) to complete the assignment. Data for the task and solutions will be posted early next week. Please note that the baseline is indicative, and the assignment will be evaluated based on the results of the in-person defense.
 
 > [!IMPORTANT]
-> Validation dataset description
+> **Validation dataset description**
+> 
 > The validation dataset contains 710 cubes (250x250 meter polygon * 1 hour time interval) selected at random from February 2020. Information about each cube includes:
 > - cube coordinates; 
 > - hour; 
