@@ -14,5 +14,8 @@ Machine Learning for Industrial Data
 * [Michael Grigoriev @Dormant512](https://github.com/Dormant512)
 
 ## Labs
-1. [Lab-1-Predicting-city-status](Lab-1-Predicting-city-status)
-2. [Lab-2-Classification-of-industrial-works](Lab-2-Classification-of-industrial-works)
+1. [Lab 1 Predicting city status](Lab-1-Predicting-city-status)
+2. [Lab 2 Classification of industrial works](Lab-2-Classification-of-industrial-works)
+
+## Assignments
+1. [Ass 1 Industrial processes scheduling using the SAMPO framework](Ass-1-Industrial-processes-scheduling-using-SAMPO)
